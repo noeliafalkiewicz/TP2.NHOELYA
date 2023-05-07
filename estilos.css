@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    
+    
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    height: 58rem; 
+    position: relative;
+    left: 3.7rem;
+}
+
+.uno{
+    width: 39.5rem;
+}
+.dos{
+    background-color:rgb(190, 176, 160);
+    width: 24.4rem;
+    height: 3rem;
+
+}
+
+.tres{
+    display: flex;
+}
+
+.texto{  
+    width: 20rem; 
+    font-size: 2rem; 
+}
+
+h4{
+    border: 1px solid black;
+    display: inline;
+}
+
+
+
+.foto{ 
+    display: flex;  
+    height: 36rem;
+    width: 43.9rem;
+    overflow: hidden;  
+}
+
+.mujer{
+    width: 19.5rem;
+
+}
+
+.colorfondo{
+    background-color:rgb(190, 176, 160) ;
+    width: 60rem;
+    color:rgb(190, 176, 160) ;
+
+
+}
+
+.cuatro{
+    background-color: rgb(190, 176, 160);
+    width: 20rem;
+    
+       
+}
