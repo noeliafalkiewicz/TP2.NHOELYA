@@ -1,12 +1,211 @@
+body{
+    font-family: Tiro+Tamil;
+}
+
 *{
     margin: 0;
     padding: 0;
 }
 
+
+
 header{
     display: flex;
+
+}
+
+main{
+    display: flex;
+    height: 53rem;
+}
+
+img{
+    height: 53rem;
+    position: relative;
+    left: 2rem;
+
+}
+
+h1{
+    font-size: 6.7rem;
+}
+
+h4{
+    border: 1.5px solid black;
+    padding: 1rem 2.5rem;
+    display: inline;
+    position: relative;
+    top: 3rem;
+    font-size: 1rem;
+    letter-spacing: 0.5rem;
     
+}
+
+p{
+    position: relative;
+    top: 12rem;
+    font-size: 1.3rem;
+}
+
+.uno{
+    width: 56rem;
+    padding: 0.5rem 4.5rem;
+    font-size: 2rem;
+}
+
+.primero{
+    display: flex;
+    padding-top: 2rem ;
+}
+
+.icono{
+    font-size: 3rem;
+    padding-right: 3rem;
     
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin-top: 1.3rem;
+    padding-left: 6rem;
+    font-size: 1.2rem;
+}
+.dos{
+    background-color: rgb(218,177,131);
+    width: 36rem;
+    
+
+}
+.segundo{
+    display: flex;
+    position: relative;
+    top: 3rem;
+    left: 20rem;
+}
+
+.cinco{
+    position: relative;
+    left: -10rem;
+    
+}
+
+.icono1{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.icono2{
+    width: 3.1rem;
+    height: 3.1rem;
+}
+
+
+.icono3{
+    width: 1.2rem;
+    height: 1.2rem;
+    position: relative;
+    top: -1.3rem;
+    left: 0.2rem;
+}
+.seis{
+    position: relative;
+    left: -10rem;
+    top: -0.9rem;
+    
+}
+
+
+.ocho{
+    position: relative;
+    left: -8rem;
+    border: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    padding-left: 2.3rem;
+    margin-bottom: 1rem;
+    
+}
+.nueve{
+    position: relative;
+    left: -7rem;
+    border: 1px solid black;
+    padding: 3px 8px 2px 8px;
+    top: -0.3rem;
+    margin-bottom: 1rem;
+}
+
+.tres{
+    display: flex;
+    
+}
+
+
+.colorfondo{
+    background-color: rgb(218, 177, 131);
+    width: 36rem;
+    color: rgb(218,177,131);
+    
+
+}
+
+
+.parte1{
+    width: 50rem;
+    position: relative;
+    left: 4.5rem;
+    top: 13rem;
+    
+}
+
+.foto{
+    width: 15rem;
+    display: flex;
+
+}
+
+.regla{
+    position: relative;
+    right: -7rem;
+    bottom: -20rem;
+}
+
+
+.regla1{
+    border: 7px solid black;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    padding-bottom: 1.5rem;
+    padding-right: 0.5rem;
+    padding-top: 1.5rem;
+}
+
+.regla2, .regla3{
+    border: 7px solid rgb(107, 106, 106);
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    padding-bottom: 1.5rem;
+    padding-right: 0.5rem;
+    padding-top: 1.5rem;
+}
+
+/*
+@media (min-width:300) and (max-width:900){
+    header{
+        background-color: white;
+    }
+    main {
+        background-color: rgb(190, 176, 160);
+    }
+
+}
+
+
+header{
+    display: flex;
+        
 }
 
 main{
@@ -72,3 +271,4 @@ h4{
     
        
 }
+*/
